@@ -7,4 +7,3 @@
 
 <h3> Home Page 🏡 Demo :</h3>
 <!-- <div align="center">🎁 <a href="https://ahmedmido77.github.io/Leon-Template/"> 👉 Kasper-Template</a></div> -->
-<p align="right">Special Thanks To @OsamaElzero</p> 
